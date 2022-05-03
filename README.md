@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vimukthisineth
+- 👀 I’m interested in java, python, javascript
+- 🌱 I’m currently learning anything i can find interesting
+- 💞️ I’m looking to collaborate on java
+- 📫 How to reach me: vimukthisineth@gmail.com
